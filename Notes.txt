@@ -1,0 +1,5 @@
+3 stages of change:
+
+1.Working Directory - Currect local folder/version of the files
+2.Staging area - What are all the files and changes in the file that should go in the next commit
+3.Committed
